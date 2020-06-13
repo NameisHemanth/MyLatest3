@@ -1,0 +1,15 @@
+package objectcastingtopic;
+class C
+{
+	public void test1()
+	{
+		
+	}
+}
+public class Tester3 
+{
+	public static void main(String[] args)
+	{
+		
+	}
+}

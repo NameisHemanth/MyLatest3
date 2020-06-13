@@ -1,0 +1,12 @@
+package interfacetopic;
+interface F //100% abstract
+{
+	void test1();
+}
+public class Tester7
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

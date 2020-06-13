@@ -1,0 +1,19 @@
+package objectcastingtopic;
+class Person
+{
+	public void dancing()
+	{
+		System.out.println("Dancing feature");
+	}
+}
+class Trainer extends Person
+{
+	
+}
+public class Tester4
+{
+	public static void main(String[] args)
+	{
+		
+	}
+}

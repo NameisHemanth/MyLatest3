@@ -1,0 +1,12 @@
+package interfacetopic;
+interface AutomationConstants
+{
+	
+}
+public class Tester6
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

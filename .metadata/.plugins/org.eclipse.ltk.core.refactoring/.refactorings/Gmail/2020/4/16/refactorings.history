@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;interfacetopic.Teser2&apos; to &apos;Tester2&apos;&#x0D;&#x0A;- Original project: &apos;Gmail&apos;&#x0D;&#x0A;- Original element: &apos;interfacetopic.Teser2&apos;&#x0D;&#x0A;- Renamed element: &apos;interfacetopic.Tester2&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Teser2&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;interfacetopic{Teser2.java[Teser2" matchStrategy="1" name="Tester2" qualified="false" references="true" similarDeclarations="false" stamp="1586909808783" textual="false" version="1.0"/>
+</session>

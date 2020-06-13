@@ -1,0 +1,21 @@
+package objectcastingtopic;
+interface TV
+{
+	void display();
+}
+class Sony implements TV
+{
+	@Override
+	public void display()
+	{
+		System.out.println("Sony LED Display");		
+	}
+}
+public class Tester6
+{
+	public static void main(String[] args) 
+	{
+		TV rv=new Sony();//Auto Upcasting
+		
+	}
+}

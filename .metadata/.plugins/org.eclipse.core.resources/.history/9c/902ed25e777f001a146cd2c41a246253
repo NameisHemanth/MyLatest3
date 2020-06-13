@@ -1,0 +1,12 @@
+package interfacetopic;
+interface E
+{
+	int a = 10;
+}
+public class Tester5
+{
+	public static void main(String[] args)
+	{
+		
+	}
+}

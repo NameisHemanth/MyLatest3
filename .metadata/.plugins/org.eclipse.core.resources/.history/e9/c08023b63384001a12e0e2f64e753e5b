@@ -1,0 +1,23 @@
+package objectcastingtopic;
+
+class Simple1
+{
+	public void test1()
+	{
+		System.out.println("test1 of Simple1 class");
+	}
+}
+class Simple2 extends Simple1
+{
+	public void test1()
+	{
+		System.out.println("test1 of Simple1 class");
+	}
+}
+public class Tester7 
+{
+	public static void main(String[] args)
+	{
+		
+	}
+}

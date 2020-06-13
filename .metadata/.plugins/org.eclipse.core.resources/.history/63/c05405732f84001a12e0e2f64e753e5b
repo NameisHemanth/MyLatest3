@@ -1,0 +1,16 @@
+package objectcastingtopic;
+interface TV
+{
+	void display();
+}
+class Sony implements TV
+{
+	
+}
+public class Tester6
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

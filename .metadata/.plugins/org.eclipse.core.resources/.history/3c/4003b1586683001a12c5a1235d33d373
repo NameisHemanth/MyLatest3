@@ -1,0 +1,16 @@
+package objectcastingtopic;
+class A
+{
+	public void test1()
+	{
+		System.out.println("test1 method of parent class");
+	}
+}
+public class Tester1
+{
+	public static void main(String[] args) 
+	{
+		
+		
+	}
+}

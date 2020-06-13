@@ -1,0 +1,13 @@
+package objectcastingtopic;
+
+class Simple1
+{
+	
+}
+public class Tester7 
+{
+	public static void main(String[] args)
+	{
+		
+	}
+}

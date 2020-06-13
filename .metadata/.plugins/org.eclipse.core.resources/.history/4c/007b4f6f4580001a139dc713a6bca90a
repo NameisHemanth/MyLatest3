@@ -1,0 +1,14 @@
+package interfacetopic;
+public class Tester11 
+{
+	public static void main(String[] args) 
+	{
+		double res = 5/2;
+		System.out.println(res);
+		System.out.println(5.0/2.0);
+	}
+}
+//CTE
+//2.5=> Adi, Anjana, Ali, Gaytri, Jyoti, Manisha, Poonam, Pradnya, Pushpa,Shilpa,sh
+//2
+//2.0====> Correct answer

@@ -1,0 +1,12 @@
+package primitivecasting;
+public class Tester1
+{
+	public void area(double r)
+	{
+		
+	}
+	public static void main(String[] args) 
+	{
+		
+	}
+}

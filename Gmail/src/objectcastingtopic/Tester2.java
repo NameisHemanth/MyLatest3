@@ -1,0 +1,34 @@
+package objectcastingtopic;
+class Sample1
+{
+	int a = 10;
+	public void test1()
+	{
+		System.out.println("Running test1 method of parent");
+	}
+}
+class Sample2 extends Sample1
+{
+	int b = 20;
+	public void test2()
+	{
+		System.out.println("Running test2 method of child");
+	}
+}
+public class Tester2
+{
+	public static void main(String[] args)
+	{
+		Sample1 s1 = new Sample2();//Upcasting is Automatic==> Auto-Upcasting
+		s1.test1();
+		System.out.println(s1.a);
+//		s1.test2();
+//		System.out.println(s1.b);
+		System.out.println("===============================");
+		Sample2 s2 =(Sample2)s1;//Explcict DownCasting
+		s2.test1();
+		System.out.println(s2.a);
+		s2.test2();
+		System.out.println(s2.b);
+	}
+}

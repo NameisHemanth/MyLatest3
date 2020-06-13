@@ -1,0 +1,16 @@
+package objectcastingtopic;
+//Upcasting in case of method Overriding
+class Father
+{
+	public void smoking()
+	{
+		System.out.println("Normal Smoker");
+	}
+}
+public class Tester5
+{
+	public static void main(String[] args)
+	{
+		
+	}
+}

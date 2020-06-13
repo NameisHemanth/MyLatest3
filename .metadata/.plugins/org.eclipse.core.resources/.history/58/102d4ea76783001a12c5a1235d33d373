@@ -1,0 +1,30 @@
+package objectcastingtopic;
+class C
+{
+	public void test1()
+	{
+		System.out.println("Running test1 of Class C");
+	}
+}
+class D extends C
+{
+	public void test2()
+	{
+		System.out.println("Running test2 of Class D");
+	}
+}
+class E extends D
+{
+	public void test3()
+	{
+		System.out.println("Running test3 of Class E");
+	}
+}
+public class Tester3 
+{
+	public static void main(String[] args)
+	{
+		System.out.println("======1st Level Upcasting======");
+		
+	}
+}

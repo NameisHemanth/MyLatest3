@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;supercallingstatement.Tester7&apos; to &apos;P&apos;&#x0D;&#x0A;- Original project: &apos;Gmail&apos;&#x0D;&#x0A;- Original element: &apos;supercallingstatement.Tester7&apos;&#x0D;&#x0A;- Renamed element: &apos;supercallingstatement.P&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Tester7&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;supercallingstatement{Tester7.java[Tester7" matchStrategy="1" name="P" qualified="false" references="true" similarDeclarations="false" stamp="1585699744222" textual="false" version="1.0"/>
+</session>

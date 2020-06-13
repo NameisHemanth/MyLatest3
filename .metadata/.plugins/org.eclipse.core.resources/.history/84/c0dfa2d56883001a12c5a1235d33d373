@@ -1,0 +1,22 @@
+package objectcastingtopic;
+class Person
+{
+	public void drunkard()
+	{
+		System.out.println("Dancing feature");
+	}
+}
+class Trainer extends Person
+{
+	public void training()
+	{
+		System.out.println("Java Training");
+	}
+}
+public class Tester4
+{
+	public static void main(String[] args)
+	{
+		
+	}
+}

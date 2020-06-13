@@ -1,0 +1,12 @@
+package objectcastingtopic;
+interface TV
+{
+	
+}
+public class Tester6
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

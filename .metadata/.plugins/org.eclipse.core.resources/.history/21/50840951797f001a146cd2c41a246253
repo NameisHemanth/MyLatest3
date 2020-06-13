@@ -1,0 +1,12 @@
+package interfacetopic;
+interface AutomationConstants
+{
+	String BROWSER_NAME="chrome";
+}
+public class Tester6
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

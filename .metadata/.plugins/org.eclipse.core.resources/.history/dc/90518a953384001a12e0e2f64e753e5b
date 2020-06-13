@@ -1,0 +1,12 @@
+package objectcastingtopic;
+class Apple
+{
+	
+}
+public class Tester7 
+{
+	public static void main(String[] args)
+	{
+		
+	}
+}

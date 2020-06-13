@@ -1,0 +1,6 @@
+package objectcastingtopic;
+//Upcasting in case of method Overriding
+public class Tester5
+{
+	
+}

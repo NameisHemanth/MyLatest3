@@ -1,0 +1,13 @@
+package interfacetopic;
+public class Tester11 
+{
+	public static void main(String[] args) 
+	{
+		double res = 5/2;
+		System.out.println(res);
+	}
+}
+//CTE
+//2.5
+//2
+//2.0

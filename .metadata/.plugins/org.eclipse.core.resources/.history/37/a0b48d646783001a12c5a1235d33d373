@@ -1,0 +1,29 @@
+package objectcastingtopic;
+class C
+{
+	public void test1()
+	{
+		System.out.println("Running test1 of Class C");
+	}
+}
+class D
+{
+	public void test1()
+	{
+		System.out.println("Running test1 of Class C");
+	}
+}
+class C
+{
+	public void test1()
+	{
+		System.out.println("Running test1 of Class C");
+	}
+}
+public class Tester3 
+{
+	public static void main(String[] args)
+	{
+		
+	}
+}
